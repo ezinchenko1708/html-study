@@ -1,0 +1,22 @@
+ /* Наш первый css файл */
+
+ @font-face {
+	font-family: BadScript;
+    src: url("../fonts/BadScript.woff2") format("woff2");	
+ }
+ @font-face {
+	font-family: Fast;
+    src: url("../fonts/Fast.woff2") format("woff2"),url("../fonts/Fast.otf") format("otf");	
+ }
+ body {
+    font-family: BadScript;
+ }
+ 
+
+h1{
+	font-family:Fast;
+	text-align: center;
+}
+ p {
+	 font-size: 150%;
+ }

@@ -9,12 +9,12 @@
     src:url("fonts/Fast.woff2") format("woff2"),url("fonts/Fast.otf") format("otf");	
  }
  body {
-    font-family:   BadScript;
+    font-family: BadScript;
  }
  
 
 h1{
-	font-family:   Fast;
+	font-family:Fast;
 	text-align: center;
 }
  p {
